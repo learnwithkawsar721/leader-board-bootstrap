@@ -1,0 +1,21 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+/* Navbar Style */
+.navbar-brand {
+  color: #fff !important;
+}
+.navbar-brand img {
+  width: 40px;
+}
+.nav-link {
+  color: #fff !important;
+}
+
+@media screen and (max-width: 575px) {
+  .players {
+    justify-content: center !important;
+  }
+}
